@@ -10,7 +10,7 @@
         <!-- Matheus -->
         <div class="bg-[#1C2A4A] rounded-2xl p-8 border border-gray-800 hover:border-[#00E0FF]/50 transition-all group">
           <div class="w-24 h-24 bg-gradient-to-br from-blue-500 to-[#00E0FF] rounded-full mx-auto mb-6 flex items-center justify-center p-1">
-            <img src="https://ui-avatars.com/api/?name=Matheus+Jeronimo&background=0A1128&color=fff" alt="Matheus" class="w-full h-full rounded-full object-cover border-2 border-[#1C2A4A]" />
+            <img src="/matheus.jpg" alt="Matheus" class="w-full h-full rounded-full object-cover border-2 border-[#1C2A4A]" />
           </div>
           <h3 class="text-xl font-bold text-white text-center mb-1">Matheus Jeronimo</h3>
           <p class="text-[#00E0FF] text-sm text-center font-medium mb-4">Estrategista & Vendas</p>
@@ -20,7 +20,7 @@
         <!-- William -->
         <div class="bg-[#1C2A4A] rounded-2xl p-8 border border-gray-800 hover:border-[#00E0FF]/50 transition-all group">
           <div class="w-24 h-24 bg-gradient-to-br from-blue-500 to-[#00E0FF] rounded-full mx-auto mb-6 flex items-center justify-center p-1">
-            <img src="https://ui-avatars.com/api/?name=William+Ferreira&background=0A1128&color=fff" alt="William" class="w-full h-full rounded-full object-cover border-2 border-[#1C2A4A]" />
+            <img src="/William.png" alt="William" class="w-full h-full rounded-full object-cover border-2 border-[#1C2A4A]" />
           </div>
           <h3 class="text-xl font-bold text-white text-center mb-1">William Ferreira</h3>
           <p class="text-[#00E0FF] text-sm text-center font-medium mb-4">Tech Lead & Desenvolvedor</p>
@@ -30,10 +30,10 @@
         <!-- Alysson -->
         <div class="bg-[#1C2A4A] rounded-2xl p-8 border border-gray-800 hover:border-[#00E0FF]/50 transition-all group">
           <div class="w-24 h-24 bg-gradient-to-br from-blue-500 to-[#00E0FF] rounded-full mx-auto mb-6 flex items-center justify-center p-1">
-            <img src="https://ui-avatars.com/api/?name=Alysson+Silvestre&background=0A1128&color=fff" alt="Alysson Silvestre" class="w-full h-full rounded-full object-cover border-2 border-[#1C2A4A]" />
+            <img src="/alysson.png" alt="Alysson Silvestre" class="w-full h-full rounded-full object-cover border-2 border-[#1C2A4A]" />
           </div>
           <h3 class="text-xl font-bold text-white text-center mb-1">Alysson Silvestre</h3>
-          <p class="text-[#00E0FF] text-sm text-center font-medium mb-4">Design & UI/UX</p>
+          <p class="text-[#00E0FF] text-sm text-center font-medium mb-4">Estrategista & Vendas</p>
           <p class="text-gray-400 text-center text-sm">Cria a identidade visual premium que o nicho de casamentos e eventos exige. Seu site vai transmitir extremo valor e elegância.</p>
         </div>
       </div>
